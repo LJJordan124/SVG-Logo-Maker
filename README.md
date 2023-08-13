@@ -6,11 +6,8 @@ This project was provided as a challenge to portray how developers need to provi
 ## Video
 WILL BE UPDATED AT A LATER TIME
 
-## Features
+## Instructions
 WILL BE UPDATED AT A LATER TIME
-
-## Languages & Dependencies
-* Node.js
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
