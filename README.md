@@ -26,7 +26,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 WILL BE UPDATED AT A LATER TIME
 
 ## Instructions
-WILL BE UPDATED AT A LATER TIME
+* npm install inquirer@8.2.4
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
