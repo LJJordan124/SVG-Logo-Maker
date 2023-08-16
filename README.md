@@ -23,7 +23,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
 ## Video
-WILL BE UPDATED AT A LATER TIME
+https://github.com/LJJordan124/SVG-Logo-Maker/assets/112834937/15a01fdc-4ee7-48bd-ab04-e47f0be520df
 
 ## Instructions
 Run the following in the terminal for installation:
